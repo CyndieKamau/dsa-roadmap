@@ -4,3 +4,5 @@ My Roadmap on Data Structures and Algorithms.
 
 
 1. Understand Big O Notation 
+
+2. Tackle Linear Search Algorithm 
